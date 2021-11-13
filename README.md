@@ -1,2 +1,2 @@
-# react-router covers react-router-dom basics
+# react-router
 react-router app covers react-router-dom basics
