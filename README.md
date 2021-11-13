@@ -1,2 +1,2 @@
 # react-router
-react-router app covers react-router-dom basics
+react-router is a mini app that covers react router basics
